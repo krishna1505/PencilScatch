@@ -24,7 +24,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/PencilScatch.git
+git clone https://github.com/krishna1505/PencilScatch.git
 Install Dependencies: You'll need to install OpenCV for this project. You can install it using pip:
 
 bash
